@@ -32,7 +32,7 @@ Creative and passionate, self-learning who had rich experience in blockchain dev
 
 <div>
   <h4>
-    <a href="https://devenye.github.io/devenye">
+    <a href="https://devenye.github.io/devenye" target="_blank">
       🌐Visit Me
     </a>
   </h4>
