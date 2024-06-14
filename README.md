@@ -26,10 +26,6 @@ Creative and passionate, self-learning who had rich experience in blockchain dev
   MongoDB, MySQL
 
 
-# 🤩Happy My Customers 
-![Happy My Students](https://solana.com/_next/image?url=https://cdn.builder.io/api/v1/image/assets%252Fce0c7323a97a4d91bd0baa7490ec9139%252Ffbd7ec2dc1c44504b245787179f8e7ff&w=1920&q=75)
-
-
 <div>
   <h4>
     <a href="https://devenye.github.io/devenye" target="_blank">
