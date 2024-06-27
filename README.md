@@ -4,9 +4,7 @@
   <strong>Senior Blockchain Developer</strong>
 </div>
 <div align="left">
-  High-skilled blockchain engineer with hands-on experience in building System program, NFT, writing smart contracts and dApps.
-I've worked on 50+ projects and complex business problems in various industries including markets, healthcare, real estate, eCommerce and insurance.
-Creative and passionate, self-learning who had rich experience in blockchain developing.
+Highly skilled blockchain engineer with rich practical experience in creating smart contracts, NFTs, and web3 projects. I have tackled numerous projects and intricate business challenges across different facets of blockchain. My expertise has played a pivotal role in the success of companies like Microsoft (Solana), Jungle Cat, Honey Finance, and more. A creative and enthusiastic self-learner with a wealth of experience in blockchain development.
 </div>
 
 <br />
@@ -14,7 +12,7 @@ Creative and passionate, self-learning who had rich experience in blockchain dev
 
 ## 🎁Services
 
-- Blockchain System Program Development
+- Blockchain Development
 - Smart Contract Deelopment
 - NFT Development
 - Decentralized Application Development
@@ -28,7 +26,7 @@ Creative and passionate, self-learning who had rich experience in blockchain dev
 
 <div>
   <h4>
-    <a href="https://devenye.github.io/devenye" target="_blank">
+    <a href="https://devenye.github.io/person" target="_blank">
       🌐Visit Me
     </a>
   </h4>
