@@ -1,10 +1,13 @@
 <h1 align="center">👋Hi, I'm Devenye Dunn</h1>
 
 <div align="center">
-  <strong>Senior Blockchain Developer</strong>
+  <strong>Senior Blockchain Engineer</strong>
 </div>
 <div align="left">
-Highly skilled blockchain engineer with rich practical experience in creating smart contracts, NFTs, and web3 projects. I have tackled numerous projects and intricate business challenges across different facets of blockchain. My expertise has played a pivotal role in the success of companies like Microsoft (Solana), Jungle Cat, Honey Finance, and more. A creative and enthusiastic self-learner with a wealth of experience in blockchain development.
+Highly proficient blockchain engineer with extensive hands-on experience in developing smart contracts, NFTs, and Web3
+projects. I have successfully managed various projects and complex business obstacles within diverse areas of blockchain. My
+skillset has been instrumental in the achievements of firms such as Microsoft (Solana), Jungle Cat, Honey Finance, and others. I
+am a innovative and eager self-taught individual with a broad background in blockchain development.
 </div>
 
 <br />
@@ -12,16 +15,23 @@ Highly skilled blockchain engineer with rich practical experience in creating sm
 
 ## 🎁Services
 
-- Blockchain Development
+- Blockchain Engineering
 - Smart Contract Deelopment
 - NFT Development
 - Decentralized Application Development
 
-## 🛠️Platform / Framework / Libraries
+## 🛠️Skillset
 
-  Solana, Anchor, Rust, Etherum, Solidity, Hardhat, Web3.js, Ether.js, Go, C/C++
-  React, Angular, Vue, Svlete, Tailwnd.css, Material-UI, jQuery.
-  MongoDB, MySQL
+- Blockchain Core Engineering
+- Smart Contract Engineering with Rust, Solana
+- Rust +Anchor + React/Next + Typescript
+- Cryptography, Security Audit, Tokenomics
+- Cosmos, Golang, Layer2
+- DeFi - Swap, Staking, Bond, Farm, Vesting
+- DEX - Perpetuals, Leverage, Limit Order Book
+- Lending, Liquid Staking, Voting, Launchpad
+- NFT - Staking, pNFT, Candy Machine, cNFT
+- Gaming, Oracle, Stablecoin, DAO
 
 
 <div>
