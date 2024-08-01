@@ -248,7 +248,7 @@ a:focus {
     margin-bottom: 45px;
     padding: 120px 0 0 0;
     overflow: hidden;
-    background: linear-gradient(rgba(26, 232, 247, 0.95), dodgerblue), url(../img/hero-bg.jpg);
+    background: linear-gradient(rgba(82, 120, 122, 0.171), rgba(2, 46, 90, 0.438)), url(../img/blockchain5.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -474,7 +474,7 @@ a:focus {
 .about {
     position: relative;
     width: 100%;
-    margin: -45px 0 45px 0;
+    color: black;
 }
 
 .about .col-lg-6 {
@@ -502,7 +502,8 @@ a:focus {
 }
 
 .about .about-text p {
-    font-size: 16px;
+    font-size: 25px;
+    font-style: oblique;
 }
 
 .about .skills {
@@ -532,9 +533,13 @@ a:focus {
 
 .about .progress .progress-bar {
     width: 0px;
-    background: dodgerblue;
+    background: rgb(13, 108, 233);
     border-radius: 10px;
     transition: 2s;
+}
+
+.about h2 {
+    color: dodgerblue;
 }
 
 .about .about-text a.btn {
